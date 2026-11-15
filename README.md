@@ -3,8 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/RAdZXX7Ruj"><img src="https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://www.twitch.tv/zedstreamm"><img src="https://img.shields.io/badge/Twitch-zedstreamm-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
   <img src="https://img.shields.io/badge/Location-Marseille%2C_FR-0f172a?style=for-the-badge" alt="Marseille" />
 </p>
 
@@ -15,7 +13,6 @@
 | Project | Stack | Description |
 | :--- | :--- | :--- |
 | [**Glimpse**](https://github.com/xVegetax/Glimpse) | `Rust` · `Tauri v2` · `TypeScript` | Fast, lightweight screen capture, vector/pixel annotation studio, offline Windows OCR, local QR mobile share, and 60 FPS MP4 recording for Windows. |
-| [**Vitrine**](https://github.com/xVegetax/vitrine) | `Objective-C` · `Theos` · `iOS` | A no-jailbreak tweak that rebuilds Spotify for iOS in Liquid Glass, with Live Activity and lossless playback support. |
 | [**Vice-City-Menu-For-Fivem**](https://github.com/xVegetax/Vice-City-Menu-For-Fivem) | `CSS` · `HTML` · `Lua` | Custom retro Vice City pause menu interface designed for FiveM servers. |
 
 ---
