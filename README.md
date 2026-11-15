@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Mokhtar C (@xVegetax)" />
+  <img src="assets/banner.jpg" width="100%" alt="Mokhtar C (@xVegetax)" />
 </p>
 
 <p align="center">
