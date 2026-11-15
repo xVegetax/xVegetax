@@ -1,18 +1,35 @@
-<h2 dir="auto"><a id="user-content--introduction" class="anchor" aria-hidden="true" href="#-introduction"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👤</g-emoji> Introduction</h2>
-
-Hello My name is Mokhtar I am a C++/HTML/Lua/JavaScript developer from Marseille
-
-<h2 dir="auto"><a id="user-content--introduction" class="anchor" aria-hidden="true" href="#-introduction"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">📧</g-emoji>Contact Me on Social Media</h2>
-
-<p align="left">
-<a href="https://discord.gg/RAdZXX7Ruj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RAdZXX7Ruj" height="30" width="40" /></a>
-  <a href="https://www.twitch.tv/zedstreamm" target="blank"><img align="center" src="https://media.discordapp.net/attachments/926555413040754750/932095857191424051/gamerhexagonmediasocialsocialmediatwitchicon-1320192608079005176.png" alt="zedstreamm" height="30" width="40" /></a>
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Mokhtar C (@xVegetax)" />
 </p>
 
+<p align="center">
+  <a href="https://discord.gg/RAdZXX7Ruj"><img src="https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://www.twitch.tv/zedstreamm"><img src="https://img.shields.io/badge/Twitch-zedstreamm-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
+  <img src="https://img.shields.io/badge/Location-Marseille%2C_FR-0f172a?style=for-the-badge" alt="Marseille" />
+</p>
 
+---
 
+### ✦ Featured Projects
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xVegetax&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| [**Glimpse**](https://github.com/xVegetax/Glimpse) | `Rust` · `Tauri v2` · `TypeScript` | Fast, lightweight screen capture, vector/pixel annotation studio, offline Windows OCR, local QR mobile share, and 60 FPS MP4 recording for Windows. |
+| [**Vitrine**](https://github.com/xVegetax/vitrine) | `Objective-C` · `Theos` · `iOS` | A no-jailbreak tweak that rebuilds Spotify for iOS in Liquid Glass, with Live Activity and lossless playback support. |
+| [**Vice-City-Menu-For-Fivem**](https://github.com/xVegetax/Vice-City-Menu-For-Fivem) | `CSS` · `HTML` · `Lua` | Custom retro Vice City pause menu interface designed for FiveM servers. |
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xVegetax&show_icons=true&theme=aura_dark)
+---
 
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Objective--C-3A95E3?style=for-the-badge&logo=apple&logoColor=white" alt="Objective-C" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
